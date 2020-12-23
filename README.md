@@ -4,7 +4,7 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 
 - 🔭 Atualmente trabalhando como desenvolvedor na empresa Brisanet Telecomunicações LTDA.
 - 💻 Trabalhando atualmente como DEVOPS.
-- 
+- 🌐 Cursando Redes de Computadores pelo IFCE-Jaguaribe.
 - 🌱 Sempre estudando sobre Typescript, Javascript, ReactJS, React Native, NodeJS, NestJS, VueJS, Docker, Docker Compose, Flutter.
 
 <sub>Diga "Oi" <br>
