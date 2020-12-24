@@ -1,3 +1,10 @@
+<div 
+  style="
+    background: url('https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png');
+    background-repeat: no-repeat;
+    background-position: right;
+  "
+>
 ### Olá Dev 👋
 
 Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo constantemente sobre as tecnologias mais atuais. Trabalho atualmente com NestJS, um framework do NodeJS baseado no AngularJS, nas tecnologias frontend usando VueJS com o framework NuxtJS e ReactJS, no mobile usando Flutter e React Native, e também conhecimentos aprofundados em banco de dados relacionais como PostgresSQL e conhecimentos aprofundados sobre Docker e Docker Compose!
@@ -15,4 +22,6 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 
 [![Josimar's github stats](https://github-readme-stats.vercel.app/api?username=Tharlys10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharlys10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 </div>
