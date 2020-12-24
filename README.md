@@ -3,6 +3,7 @@
     background-image: url('https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png');
     background-repeat: no-repeat;
     background-position: right;
+    heigth: 100%;
   "
 >
 ### Olá Dev 👋
