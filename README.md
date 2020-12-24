@@ -5,18 +5,6 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 - 🔭 Atualmente trabalhando como DEVOPS na empresa Brisanet Telecomunicações LTDA.
 - 🌐 Cursando Redes de Computadores pelo IFCE-Jaguaribe.
 - 🌱 Sempre estudando sobre Typescript, Javascript, ReactJS, React Native, NodeJS, NestJS, VueJS, Docker, Docker Compose, Flutter.
-<div>
-  <img 
-    src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-    style="
-      position: absolute;
-      top: 110px;
-      right: 10px;
-      z-index: -1;
-    "
-  />
-</div>
-
 
 <sub>Diga "Oi" <br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tharlys-alves-7aaa011ab/) 
