@@ -13,6 +13,6 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 
 <div align="center" >
 
-[![Josimar's github stats](https://github-readme-stats.vercel.app/api?username=Tharlys10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Tharlys's github stats](https://github-readme-stats.vercel.app/api?username=Tharlys10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharlys10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
