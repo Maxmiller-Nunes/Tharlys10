@@ -6,7 +6,7 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 - 🌐 Cursando Redes de Computadores pelo IFCE-Jaguaribe.
 - 🌱 Sempre estudando sobre Typescript, Javascript, ReactJS, React Native, NodeJS, NestJS, VueJS, Docker, Docker Compose, Flutter.
 
-----
+
 
 ----
 
@@ -34,7 +34,7 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 
 ----
 
-----
+
 
 <sub>Diga "Oi" <br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=dark" />](https://www.linkedin.com/in/tharlys-alves-7aaa011ab/) 
