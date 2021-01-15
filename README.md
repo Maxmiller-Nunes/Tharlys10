@@ -6,6 +6,36 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 - 🌐 Cursando Redes de Computadores pelo IFCE-Jaguaribe.
 - 🌱 Sempre estudando sobre Typescript, Javascript, ReactJS, React Native, NodeJS, NestJS, VueJS, Docker, Docker Compose, Flutter.
 
+----
+
+----
+
+### Stacks :computer:
+
+<a href="https://nodejs.org/en/">
+  <img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="Node"/>
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img height="32" src="https://cdn2.iconfinder.com/data/icons/programming-languages-8/64/207_programming-program-language-code-typescript-512.png" alt="TypeScript"/>
+</a>
+<a href="https://vuejs.org/">
+  <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Vue"/>
+</a>
+<a href="https://www.w3schools.com/html/">
+  <img height="32" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" alt="HTML"/>
+</a>
+<a href="https://www.w3schools.com/css/">
+  <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS"/>
+</a>
+<a href="https://www.javascript.com/">
+  <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
+</a>
+
+
+----
+
+----
+
 <sub>Diga "Oi" <br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=dark" />](https://www.linkedin.com/in/tharlys-alves-7aaa011ab/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&theme=dark">](https://www.instagram.com/tharlys_a/) 
