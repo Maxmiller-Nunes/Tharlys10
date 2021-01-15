@@ -12,9 +12,12 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 
 ### Stacks :computer:
 
-</a>
+
 <a href="https://vuejs.org/">
   <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Vue"/>
+</a>
+<a href="https://nuxtjs.org/">
+  <img height="32" src="https://nuxtjs.org/favicon.ico" alt="NuxtJS"/>
 </a>
 <a href="https://www.w3schools.com/html/">
   <img height="32" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" alt="HTML"/>
