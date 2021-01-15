@@ -36,8 +36,11 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 </a>
 <a href="https://www.typescriptlang.org/">
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/programming-languages-8/64/207_programming-program-language-code-typescript-512.png" alt="TypeScript"/>
-<a href="https://www.javascript.com/">
-  <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
+<a href="https://flutter.dev/">
+  <img height="32" src="https://flutter.dev/images/favicon.png" alt="Flutter"/>
+</a>
+<a href="https://vuejs.org/">
+  <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Vue"/>
 </a>
 
 
