@@ -12,11 +12,6 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 
 ### Stacks :computer:
 
-<a href="https://nodejs.org/en/">
-  <img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="Node"/>
-</a>
-<a href="https://www.typescriptlang.org/">
-  <img height="32" src="https://cdn2.iconfinder.com/data/icons/programming-languages-8/64/207_programming-program-language-code-typescript-512.png" alt="TypeScript"/>
 </a>
 <a href="https://vuejs.org/">
   <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Vue"/>
@@ -27,6 +22,14 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 <a href="https://www.w3schools.com/css/">
   <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS"/>
 </a>
+<a href="https://www.postgresql.org/">
+  <img height="32" src="https://assets.stickpng.com/images/584815fdcef1014c0b5e497a.png" alt="PostgreSQL"/>
+</a>
+<a href="https://nodejs.org/en/">
+  <img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="Node"/>
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img height="32" src="https://cdn2.iconfinder.com/data/icons/programming-languages-8/64/207_programming-program-language-code-typescript-512.png" alt="TypeScript"/>
 <a href="https://www.javascript.com/">
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
 </a>
