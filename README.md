@@ -39,8 +39,8 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 <a href="https://flutter.dev/">
   <img height="32" src="https://flutter.dev/images/favicon.png" alt="Flutter"/>
 </a>
-<a href="https://vuejs.org/">
-  <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Vue"/>
+<a href="https://dart.dev/assets/shared/dart/icon/64.png">
+  <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Dart"/>
 </a>
 
 
