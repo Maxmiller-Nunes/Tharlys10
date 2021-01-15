@@ -41,8 +41,10 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&theme=dark">](https://www.instagram.com/tharlys_a/) 
 </sub>
 
-<div align="center" >
+
+----
+
+
 
 [![Tharlys's github stats](https://github-readme-stats.vercel.app/api?username=Tharlys10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharlys10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div>
