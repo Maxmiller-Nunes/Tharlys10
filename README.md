@@ -39,10 +39,10 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 <a href="https://www.javascript.com/">
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
 </a>
-<a href="https://flutter.dev/">
+<a style="text-decoretion: none;" href="https://flutter.dev/">
   <img height="32" src="https://flutter.dev/images/favicon.png" alt="Flutter"/>
 </a>
-<a style="text-decoretion: none; margin: 10px;" href="https://dart.dev/assets/shared/dart/icon/64.png">
+<a style="text-decoretion: none;" href="https://dart.dev/assets/shared/dart/icon/64.png">
   <img height="32" src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart"/>
 </a>
 
