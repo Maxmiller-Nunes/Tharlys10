@@ -23,7 +23,7 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
   <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS"/>
 </a>
 <a href="https://www.postgresql.org/">
-  <img height="32" src="https://banner2.cleanpng.com/20180817/fvr/kisspng-postgresql-database-installation-microsoft-sql-ser-bearle-5b7719c70a2b68.6265470715345320390417.jpg" alt="PostgreSQL"/>
+  <img height="32" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL"/>
 </a>
 <a href="https://nodejs.org/en/">
   <img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="Node"/>
