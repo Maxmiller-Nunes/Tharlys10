@@ -62,14 +62,16 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 
 
 ----
+<div>
+  <div style="position: absolute;">
+
+  [![Tharlys's github stats](https://github-readme-stats.vercel.app/api?username=Tharlys10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![Tharlys's github stats](https://github-readme-stats.vercel.app/api?username=Tharlys10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharlys10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<div style="position: absolute; bottom: 140px; right: 80px">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" alt="Computador iuriCode">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharlys10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  <div style="position: absolute; bottom: 140px; right: 80px">
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" alt="Computador iuriCode">
+  </div>
 </div>
