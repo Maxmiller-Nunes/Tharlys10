@@ -13,36 +13,36 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 ### Stacks :computer:
 
 
-<a style="text-decoretion: none;" href="https://vuejs.org/">
+<a style="text-decoration: none;" href="https://vuejs.org/">
   <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Vue"/>
 </a>
-<a style="text-decoretion: none;" href="https://nuxtjs.org/">
+<a style="text-decoration: none;" href="https://nuxtjs.org/">
   <img height="32" src="https://nuxtjs.org/favicon.ico" alt="NuxtJS"/>
 </a>
-<a style="text-decoretion: none;" href="https://www.w3schools.com/html/">
+<a style="text-decoration: none;" href="https://www.w3schools.com/html/">
   <img height="32" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" alt="HTML"/>
 </a>
-<a style="text-decoretion: none;" href="https://www.w3schools.com/css/">
+<a style="text-decoration: none;" href="https://www.w3schools.com/css/">
   <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS"/>
 </a>
-<a style="text-decoretion: none;" href="https://www.postgresql.org/">
+<a style="text-decoration: none;" href="https://www.postgresql.org/">
   <img height="32" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL"/>
 </a>
-<a style="text-decoretion: none;" href="https://nodejs.org/en/">
+<a style="text-decoration: none;" href="https://nodejs.org/en/">
   <img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="Node"/>
 </a>
-<a style="text-decoretion: none;" href="https://nestjs.com/">
+<a style="text-decoration: none;" href="https://nestjs.com/">
   <img height="32" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="NestJS"/>
 </a>
-<a style="text-decoretion: none;" href="https://www.typescriptlang.org/">
+<a style="text-decoration: none;" href="https://www.typescriptlang.org/">
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/programming-languages-8/64/207_programming-program-language-code-typescript-512.png" alt="TypeScript"/>
-<a style="text-decoretion: none;" href="https://www.javascript.com/">
+<a style="text-decoration: none;" href="https://www.javascript.com/">
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
 </a>
-<a style="text-decoretion: none;" href="https://flutter.dev/">
+<a style="text-decoration: none;" href="https://flutter.dev/">
   <img height="32" src="https://flutter.dev/images/favicon.png" alt="Flutter"/>
 </a>
-<a style="text-decoretion: none;" href="https://dart.dev">
+<a style="text-decoration: none;" href="https://dart.dev">
   <img height="32" src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart"/>
 </a>
 
