@@ -53,7 +53,8 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 
 <sub>Diga "Oi" <br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=dark" />](https://www.linkedin.com/in/tharlys-alves-7aaa011ab/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&theme=dark">](https://www.instagram.com/tharlys_a/) 
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&theme=dark">](https://www.instagram.com/tharlys_a/) 
+[<img src="https://img.shields.io/badge/tharlys2015c@gmail.com-red?&style=for-the-badge&logo=Gmail&logoColor=white&theme=dark&link=mailto:tharlys2015c@gmail.com">](https://mail.google.com/mail/u/0/#inbox)   
 </sub>
 
 
