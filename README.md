@@ -70,5 +70,6 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharlys10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<img style="position: absolute; bottom: 140px; right: 80px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
+<div style="position: absolute; bottom: 140px; right: 80px">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
+</div>
