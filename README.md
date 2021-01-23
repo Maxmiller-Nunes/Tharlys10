@@ -1,6 +1,6 @@
 ### Olá Dev 👋
 
-Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo constantemente sobre as tecnologias mais atuais. Trabalho atualmente com NestJS, um framework do NodeJS baseado no AngularJS, nas tecnologias frontend usando VueJS com o framework NuxtJS e ReactJS, no mobile usando Flutter e React Native, e também conhecimentos aprofundados em banco de dados relacionais como PostgresSQL e conhecimentos aprofundados sobre Docker e Docker Compose!
+Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo constantemente sobre as tecnologias mais atuais. Trabalho atualmente com NestJS, um framework do NodeJS baseado no AngularJS, nas tecnologias frontend usando VueJS com o framework NuxtJS, no mobile usando Flutter, e também conhecimentos aprofundados em banco de dados relacionais como PostgresSQL e conhecimentos aprofundados sobre Docker e Docker Compose!
 
 - 🔭 Atualmente trabalhando como DEV/DEVOPS na empresa Brisanet Telecomunicações LTDA.
 - 🌐 Cursando Redes de Computadores pelo IFCE-Jaguaribe.
