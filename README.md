@@ -73,4 +73,5 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 
 </p>
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Tharlys10)](https://github.com/Tharlys10)
 
