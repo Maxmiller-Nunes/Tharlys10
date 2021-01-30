@@ -71,10 +71,10 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 
 <details>
   <summary>:zap: Languages Used</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharlys10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharlys10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats"/>
   </details>
 <br/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharlys10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Tharlys10)](https://github.com/Tharlys10)
