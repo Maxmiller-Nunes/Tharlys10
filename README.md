@@ -1,3 +1,10 @@
+
+<div align="right">
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Tharlys10)](https://github.com/Tharlys10)
+
+</div>
+
 ### Olá Dev 👋
 
 Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo constantemente sobre as tecnologias mais atuais. Trabalho atualmente com NestJS, um framework do NodeJS baseado no AngularJS, nas tecnologias frontend usando VueJS com o framework NuxtJS, no mobile usando Flutter, e também conhecimentos aprofundados em banco de dados relacionais como PostgresSQL e conhecimentos aprofundados sobre Docker e Docker Compose!
@@ -73,6 +80,4 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Tharlys10&theme=dracula&title_color=FFF)](https://wakatime.com)
 </p>
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Tharlys10)](https://github.com/Tharlys10)
 
