@@ -78,6 +78,6 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharlys10&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Tharlys10&theme=dracula&title_color=FFF)](https://wakatime.com)
+//[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Tharlys10&theme=dracula&title_color=FFF)](https://wakatime.com)
 </p>
 
