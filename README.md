@@ -27,40 +27,26 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 
 ### Stacks :computer:
 
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="25" height="25"/>
 
-<a style="text-decoration: none;" href="https://vuejs.org/">
-  <img width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Vue"/>
-</a>
-<a style="text-decoration: none;" href="https://www.w3schools.com/html/">
-  <img width="32" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" alt="HTML"/>
-</a>
-<a style="text-decoration: none;" href="https://www.w3schools.com/css/">
-  <img width="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS"/>
-</a>
-<a style="text-decoration: none;" href="https://www.postgresql.org/">
-  <img width="32" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL"/>
-</a>
-<a style="text-decoration: none;" href="https://nodejs.org/en/">
-  <img width="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="Node"/>
-</a>
-<a style="text-decoration: none;" href="https://nestjs.com/">
-  <img width="32" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="NestJS"/>
-</a>
-<a style="text-decoration: none;" href="https://www.typescriptlang.org/">
-  <img width="32" src="https://cdn2.iconfinder.com/data/icons/programming-languages-8/64/207_programming-program-language-code-typescript-512.png" alt="TypeScript"/>
-<a style="text-decoration: none;" href="https://www.javascript.com/">
-  <img width="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
-</a>
-<a style="text-decoration: none;" href="https://flutter.dev/">
-  <img width="32" src="https://flutter.dev/images/favicon.png" alt="Flutter"/>
-</a>
-<a style="text-decoration: none;" href="https://dart.dev">
-  <img width="32" src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart"/>
-</a>
-<a style="text-decoration: none;" href="https://www.docker.com/">
-  <img width="32" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="Docker"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="25" height="25"/>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="25" height="25"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="25" height="25"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="25" height="25"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/>
+
+</p>
 
 ----
 
