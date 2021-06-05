@@ -56,7 +56,7 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 
 [![Tharlys's github stats](https://github-readme-stats.vercel.app/api?username=Tharlys10&show_icons=true&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=costapedrohenrique&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=tharlys10&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharlys10&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 </p>
