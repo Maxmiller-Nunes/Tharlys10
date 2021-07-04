@@ -41,6 +41,10 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS%20-green.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+<br/>
+<img alt="Postgresql" src="https://img.shields.io/badge/postgresql%20-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="Mongodb" src="https://img.shields.io/badge/mongodb%20-green.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="SQlite" src="https://img.shields.io/badge/sqlite%20-blue.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ----
