@@ -45,7 +45,7 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 <img alt="Postgresql" src="https://img.shields.io/badge/postgresql%20-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="Mongodb" src="https://img.shields.io/badge/mongodb%20-green.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="SQlite" src="https://img.shields.io/badge/sqlite%20-blue.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-FFCD4A.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-1973E8.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
 <br/>
 <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 <img alt="Vuetify" src="https://img.shields.io/badge/vuetify-1867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
