@@ -34,13 +34,13 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 <br/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
-<img alt="Express.js" src="https://img.shields.io/badge/express%20-green.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="Express" src="https://img.shields.io/badge/express-green.svg?&style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
 <br/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-<img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS%20-green.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
+<img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-2F495E.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
 <br/>
 <img alt="Postgresql" src="https://img.shields.io/badge/postgresql%20-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="Mongodb" src="https://img.shields.io/badge/mongodb%20-green.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
