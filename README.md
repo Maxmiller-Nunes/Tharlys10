@@ -13,7 +13,7 @@ Meu nome é Tharlys Alves, desenvolvedor Full Stack, estudando e aprendendo cons
 - 🌱 Sempre estudando sobre Typescript, Javascript, NodeJS, React, VueJS, Docker e Docker Compose.
 - 🔭 Sempre tentando avançar para o proximo nível.
 - 🚀 Participando da primeira turma do Ignite da Rocketseat
-- 🚀 <a href="https://drive.google.com/file/d/1ITxnboTclzTw86MTCZN-ecKmHOLJTzvi/view?usp=sharing">Certificação</a> do Ignite da Rocketseat em NodeJS
+- 🚀 <a href="https://app.rocketseat.com.br/certificates/b1eae40e-4164-4884-9df6-51c41776f676">Certificação</a> do Ignite da Rocketseat em NodeJS
 
 ----
 
