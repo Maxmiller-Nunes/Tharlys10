@@ -12,8 +12,8 @@ Meu nome é <b>Tharlys Alves</b>, desenvolvedor Full Stack, estudando e aprenden
 - 💻 Atualmente trabalhando como desenvolvedor na empresa Brisanet Telecomunicações S.A.
 - 🌱 Sempre estudando sobre Typescript, Javascript, NodeJS, React, VueJS, Docker e Docker Compose.
 - 🔭 Sempre tentando avançar para o proximo nível.
-- 🚀 Participando da primeira turma do Ignite da Rocketseat.
-- 🚀 <b><a href="https://app.rocketseat.com.br/certificates/b1eae40e-4164-4884-9df6-51c41776f676" target="_blank">Certificação</a></b> de NodeJS do Ignite da Rocketseat.
+- 🚀 Participando da primeira turma do Ignite da [Rocketseat](https://github.com/Rocketseat).
+- 🚀 <b>[Certificação](https://app.rocketseat.com.br/certificates/b1eae40e-4164-4884-9df6-51c41776f676)</b> de NodeJS do Ignite da Rocketseat.
 
 ----
 
