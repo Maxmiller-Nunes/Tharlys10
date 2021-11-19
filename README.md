@@ -7,7 +7,7 @@
 
 ### Olá Dev 👋
 
-Meu nome é <b>Tharlys Alves</b>, desenvolvedor Full Stack, estudando e aprendendo constantemente sobre as tecnologias mais atuais. Trabalho atualmente com NodeJS juntamente do Express e tambem com NestJS um framework do NodeJS baseado no AngularJS, nas tecnologias front-end usando ReactJS e as vezes uma brincadeira em VueJS com o framework NuxtJS, também conhecimentos aprofundados em banco de dados relacionais como PostgresSQL e conhecimentos aprofundados sobre Docker e Docker Compose!
+Meu nome é <b>Tharlys Alves</b>, desenvolvedor Full Stack, estudando e aprendendo constantemente sobre as tecnologias mais atuais. Trabalho atualmente com NodeJS juntamente do Express e tambem com NestJS um framework do NodeJS baseado no Angular, nas tecnologias front-end usando ReactJS e as vezes uma brincadeira em VueJS com o framework NuxtJS, também conhecimentos aprofundados em banco de dados relacionais como PostgresSQL e conhecimentos aprofundados sobre Docker e Docker Compose!
 
 - 💻 Atualmente trabalhando como desenvolvedor na empresa Brisanet Telecomunicações S.A.
 - 🌱 Sempre estudando sobre Typescript, Javascript, NodeJS, React, VueJS, Docker e Docker Compose.
